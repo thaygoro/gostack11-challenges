@@ -1,0 +1,9 @@
+[submodule "challenge02"]
+	path = challenge02
+	url = https://github.com/thaygoro/gostack11-nodejs-concepts-challenge02
+[submodule "challenge03"]
+	path = challenge03
+	url = https://github.com/thaygoro/gostack11-concepts-reactjs-challenge03
+[submodule "challenge04"]
+	path = challenge04
+	url = https://github.com/thaygoro/gostack11-concepts-reactnative-challenge04
